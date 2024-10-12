@@ -17,5 +17,5 @@ Learned the basics of SwiftUI, for example:
 Since this was my very first application, creating it was a fantastic experience for me, which encouraged me to further explore the world of Swift.
 
 ## User Interface
-<img height="700" src="https://github.com/user-attachments/assets/e46cc0c6-1beb-4086-98ef-1c20d9da93f3">
-<img height="700" src="https://github.com/user-attachments/assets/af156268-d152-4f84-9241-9b0fbea47c33">
+<img height="700" src="https://github.com/Namkhengsai/Images/blob/main/GTFscreenshort-1.png">
+<img height="700" src="https://github.com/Namkhengsai/Images/blob/main/GTFscreenshort-2.png">
